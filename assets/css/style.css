@@ -1,0 +1,415 @@
+body {
+font-family: 'Poppins';
+}
+h2 {
+    color: #474f84;
+    font-weight: 700;
+    margin-bottom: .5rem;
+}
+header.py-5.mb-5 {
+    background-image: url(../../assets/img/c-t.png);
+    background-size: 100% 100%;
+    min-height: 100%;
+}
+header .container {
+    margin-bottom: 50px;
+    margin-top: 100px;
+    min-height: 250px;
+}
+header .col-md-3.ml-auto.mr-auto.text-center {
+    background-image: url(../../assets/img/g-5.png);
+    background-repeat: no-repeat;
+}
+.form-control {
+    padding: 10px;
+    font-size: 14px;
+}
+#S-Skills {
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+#Contact {
+    margin-top: 80px;
+}
+#Contact .col-md-4 h3 {
+    background-image: url(../../assets/img/r-2.png);
+    background-repeat: no-repeat;
+    font-weight: 700;color: #484f85;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#Contact form {
+padding-left:40px;
+margin-top: 20px;
+}
+#Contact p {
+    padding-left:40px;
+    margin-top: 20px;
+}
+#Contact i {
+    font-size: 32px;
+    margin-right: 20px;
+}
+#Team h3 {
+    background-image: url(../../assets/img/r-2.png);
+    background-repeat: no-repeat;
+    font-weight: 700;color: #484f85;
+    padding-left: 40px;
+    padding-top: 5px;
+    height: 100%;
+}
+#S-Skills h3 {
+    background-image: url(../../assets/img/r-2.png);
+    background-repeat: no-repeat;
+    font-weight: 700;color: #484f85;
+    padding-left: 40px;
+    padding-top: 5px;
+    height: 100%;
+}
+#Map {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.avatar.mb-md-0.mb-4:hover {
+    background-image: url(../../assets/img/g-11.png);
+}
+.avatar.mb-md-0.mb-4 {
+    cursor: pointer;
+}
+.info-1 {
+    background: #DEFFF7;
+    padding: 10px 20px;
+    width: 100%;
+}
+.info-1 a {
+    font-size: 13px;
+}
+.info-2 a {
+    font-size: 13px;
+}
+.info-3 a {
+    font-size: 13px;
+}
+.info-4 a {
+    font-size: 13px;
+}
+.info-2 {
+    background: #E3F3FF;
+    padding: 10px 20px;
+    width: 100%;
+}
+.info-3 {
+    background: #E1BFFB;
+    padding: 10px 20px;
+    width: 100%;
+}
+.info-4 {
+    background: #E8FFD9;
+    padding: 10px 20px;
+    width: 100%;
+}
+#Team .row.mt-5 h3 {
+background-image: none;
+height: 70%;
+padding-left: 0px;
+}
+#VR-Tech {
+    margin-top: 10rem!important;
+    margin-bottom: 10rem!important;
+}
+#doing {
+    margin-top: 8rem!important;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+    color:#235bd9; 
+}
+#Blockchain {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.carousel-item {
+    height: 100vh;
+    min-height:300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size:cover;
+    background-size:cover;
+}
+.carousel-caption {
+    bottom:270px;
+    right: 0%;
+    text-align: left;
+    padding-bottom: 0px;
+}
+.carousel-caption h5 {
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+    font-weight: 700;
+}
+p {
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+.carousel-caption p{
+    margin:auto;
+    font-size: 15px;
+    line-height: 1.9;
+}
+.btn-primary {
+    margin-top:20px;
+    font-size: 12px;
+    padding: 8px 30px;
+    background: #245bda;
+}
+.carousel-indicators {
+    webkit-box-pack: initial;
+    justify-content: initial;
+    bottom: 30px;
+}
+.carousel-indicators li {
+    width: 60px;
+    height: 4px;
+}
+#VR-Tech img {
+width:100%;
+}
+#doing .row {
+    background-image: url(../../assets/img/rec.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#AL-Int h2 {
+    color:#f28878;
+}
+#flutter h2{
+   color: #5ec8f8;
+}
+#flutter p{
+    color: #fff;
+ }
+#flutter .row {
+    background-image: url(../../assets/img/flutter.png);
+    background-size: 100%;
+    padding-bottom: 80px;
+    background-repeat: no-repeat;
+    margin-right: 0px;
+}
+#AL-Int p {
+    color: #fff;
+}
+#AL-Int .row{
+    margin: 0px 60px;
+    background: #575ed0;
+    border-radius: 10px;
+}
+#doing .col-md-4.ml-auto.mr-auto.text-center {
+    background-image: url(../../assets/img/g-5.png);
+    background-repeat: no-repeat;
+}
+#Clients .col-md-6.ml-auto.mr-auto.text-center {
+    background-image: url(../../assets/img/g-5.png);
+    background-repeat: no-repeat;
+}
+#Portfolio-1 .row {
+    background-image: url(../../assets/img/-1.png);
+    background-size: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#Portfolio-1 .row h5 {
+    color: #474f84; 
+}
+h1 {
+    font-weight: 700;
+    color: #484f84;
+    float: left;
+    margin-left: 20px;
+
+}
+#Tech h5 {
+    font-weight: 700;
+    color: #474f84;
+}
+#Tech p {
+    letter-spacing: 0;
+}
+.carousel-indicators .active {
+    width: 60px;
+    height: 5px;
+}
+.navbar-light .navbar-brand {
+    color:#fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:#fff;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#fff;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color:#235bd9;
+}
+
+.footer-clean ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.footer-clean {
+    padding: 50px 0;
+    background-color: #f7fcff;
+    color: #4b4c4d;
+}
+footer {
+    display: block;
+}
+.footer-clean ul a {
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.8;
+    font-weight: 700;
+    line-height: 30px;
+}
+.footer-clean .item.social > a {
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+}
+.footer-clean .item.social {
+    text-align: right;
+}
+.footer-clean li {
+    margin-bottom: 10px;
+}
+.footer-clean img {
+    width: 50%;
+    margin-top: 15px;
+}
+#Clients {
+    margin-top:100px;
+}
+#Portfolio-2 {
+    margin-top:100px;
+    margin-bottom:80px;
+}
+#Portfolio-2 .col-md-8.ml-auto.mr-auto.text-center {
+    background-image: url(../../assets/img/g-5.png);
+    background-repeat: no-repeat;
+}
+#Portfolio-2 .container-fluid {
+    position: relative;
+    padding: 0px;
+}
+#Portfolio-2 .row {
+    margin-right: 0px;
+}
+#Portfolio-2 .image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+#Portfolio-2 .col-md-4 {
+      padding: 0px;
+}
+
+#Portfolio-2 .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+  
+#Portfolio-2 .container-fluid:hover .image {
+    opacity: 0.3;
+}
+
+#Portfolio-2 .container-fluid:hover .middle {
+    opacity: 1;
+}
+  
+#Portfolio-2 .text {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+}
+#Portfolio-2 .project-hover img {
+    width: 90px;
+}
+.title-arch {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.project {
+background-image: url(../../assets/img/c-1.png);
+background-size: 100%;
+    min-height: 330px;
+}
+
+.project-2 {
+background-image: url(../../assets/img/c-2.png);
+}
+
+.project-3 {
+background-image: url(../../assets/img/c-3.png);
+}
+#Tech .col-md-4.ml-4 {
+    align-self: center;
+    background-image: url(../../assets/img/g-5.png);
+    background-repeat: no-repeat;
+    padding: 10px 0px 0px 40px;
+}
+#Tech h2 {
+font-weight: bold;
+}
+.project-hover {
+width: 100%;
+height: 100%;
+color: #fff;
+opacity: 0;
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;
+background-color: #0062cce0;
+padding: 40px 40px !important;
+}
+
+
+.project:hover .project-hover {
+opacity: 1;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
